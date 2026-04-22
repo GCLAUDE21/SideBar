@@ -12,7 +12,7 @@ Créer une sidebar interactive en JavaScript natif : un bouton hamburger ouvre e
 ## Compétences travaillées
 
 - Manipulation du DOM avec JavaScript natif
-- Gestion des événements (click, stopPropagation)
+- Gestion des événements
 - Toggle de classes CSS via JavaScript
 - Transformation CSS avec `rotate` pour l'effet hamburger vers croix
 
